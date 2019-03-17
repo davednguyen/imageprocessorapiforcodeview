@@ -1,0 +1,14 @@
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\bin\Debug\netcoreapp2.2\ImageProcessorAPI.deps.json
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\bin\Debug\netcoreapp2.2\ImageProcessorAPI.runtimeconfig.json
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\bin\Debug\netcoreapp2.2\ImageProcessorAPI.runtimeconfig.dev.json
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\bin\Debug\netcoreapp2.2\ImageProcessorAPI.dll
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.csproj.CoreCompileInputs.cache
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.RazorAssemblyInfo.cache
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.RazorAssemblyInfo.cs
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.AssemblyInfoInputs.cache
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.AssemblyInfo.cs
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\bin\Debug\netcoreapp2.2\ImageProcessorAPI.pdb
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.csprojAssemblyReference.cache
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.dll
+C:\Users\mr4eyesn\Desktop\imageprocessorAPI\ImageProcessorAPI\ImageProcessorAPI\obj\Debug\netcoreapp2.2\ImageProcessorAPI.pdb
